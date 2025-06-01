@@ -19,13 +19,13 @@ https://files.catbox.moe/4h8bem.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQpb4YxZtm5dZkSldcX5lXiRWaseki6fOzODSMlGLJeUUzmaZzKNb_OY&s=10" Group-title="LIVE EVENTS", INTER MIAMI VS COLUMBUS CREW | MLS | 1 JUNI 2025 06:30 WIB
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://hls.uouetrq19.com/live/hd-en-6MtMPPZbaZhG6cpWk7.m3u8?txSecret=9daae889fc7daa8072f1acae0b6a1279&txTime=683CF016
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIenKmFP76bXbdw7POL_kq_Co9PWN5dYVBngtTluDRfY6gzx7nRfDj8YQ&s=10" Group-title="LIVE EVENTS", FC DALLAS VS PHILADELPHIA UNION | MLS | 1 JUNI 2025 07:30 WIB
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://hls.uouetrq19.com/live/sd-6MtMPPZaaAfmuJjHNX.m3u8?txSecret=f2086ee15e605dae08f7a711d6b6579a&txTime=683CF2E8
 
 
 
@@ -61,6 +61,14 @@ https://files.catbox.moe/4h8bem.mp4
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvyNyXPudZHHUOYCrG53Y-Z8WgsHN5sv2fLjTKxXq0QxEtgLlAjnm46Uv&s=10" Group-title="LIVE EVENTS", UPCOMING AVC NATIONS CUP 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sport7.pro/
+#EXTVLCOPT:http-origin=https://sport7.pro/
+https://files.catbox.moe/4h8bem.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1p3onmw4sqr4lapkpcdty47r9_image-header_pCa_1742543869000&quality=50" Group-title="LIVE EVENTS", UPCOMING WORLD CUP QUALIFIER EUROPE | FYR Macedonia vs Belgium | 7 JUNI 2025 01:45 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
