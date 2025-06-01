@@ -3,14 +3,14 @@
 
                 ==========LIVE EVENTS SELECTS=======
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 1 | BWF SINGAPORE OPEN 2025 | 27 MEI - 1 JUNI 2025
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWatu4Aj6lrKM4m2VqYduL0Pj2FfJpwjBOBO54agT8ePOHo3pWtHd6g&s=10" Group-title="LIVE EVENTS", UPCOMING KAPAL API INDONESIA OPEN 2025 | 3 JUNI - 8 JUNI 2025
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910953478621061_AiHD.m3u8?txSecret=b676647d95e40d1bf74f067641a9f8ca&txTime=683D21C0
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 2 | BWF SINGAPORE OPEN 2025 | 27 MEI - 1 JUNI 2025
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 2 | KAPAL API INDONESIA OPEN 2025 | 3 JUNI - 8 JUNI 2025
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 
@@ -19,7 +19,7 @@ https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylEWfmDV7-Q8jPNgGdxC0-5SLIbYi90JYXQuGSc2CxwicShAERVqo5MEe&s=10" Group-title="LIVE EVENTS", MXGP 2025
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fis39g1.xyz/token-IBIvk7fCIKWG7zAhlfY6z2uElMOEhy7jPXH8kvdGFmb37uOeHUFdDoIrqxxOW0RJBCeIwDdmmvw%3Da/cfall/s2001/v3b/6s31o10snUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_604437.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDU2WnMlu41CBSHAxh_x68k6BQ11DK5iBN6DXaeJ1GRmyUBmSVRbBMAsj2&s=10" Group-title="LIVE EVENTS", Shonan Bellmare VS Fagiano Okayama | 1 JUNI 2025 13:00 WIB
@@ -220,14 +220,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL", JAWA POS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Sindonews%20tv.png" group-title="NASIONAL", SINDONEWS TV
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/SindoNewsTV-HD.mpd
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/kgbMZrT.png" group-title="NASIONAL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
