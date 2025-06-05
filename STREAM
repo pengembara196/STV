@@ -150,12 +150,12 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png",GTV HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecszrg8Xpe6vk3V3_jOEF_A
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" group-title="NASIONAL",INEWS HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeem_548vmbY_4RzhH0LNZLA
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1281,7 +1281,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="PREMIUM SPORT",ASTRO BADMINTON HD
-https://qtvku.my.id/play/admin/stream/79818ec8e9903d51
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeboQzZBL_r5mDJzEMANgyX4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png/revision/latest?cb=20211129065833" Group-title="PREMIUM SPORT", T-SPORT 7
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
@@ -1360,7 +1360,7 @@ https://qtvku.my.id/play/admin/stream/8ad11ffd1e323ba4
 http://extraott.com:900/live/3162523972/3791698850/6589.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="PREMIUM SPORT", Astro Grandstand
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZSXwEdtijKFNXWZBkXMbOA
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="PREMIUM SPORT", Astro Football
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
