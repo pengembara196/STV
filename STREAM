@@ -29,13 +29,13 @@
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lRcShYLuXHjFE-teVDhbGw0iFb8=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18913/avc-women-s-volleyball-nation-cup-2025-cover-33e61d.jpg" Group-title="AVC NATIONS CUP 2025", CH1 | 7-24 JUNI 2025
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fis39g1.xyz/token-cEF4yriRLqWG6GItwfY6kWODlJvbh3rjbHevkvNNFzmhtLOfHUFdDoMvqRRBXU1JBCeIwDdmmvw%3Da/cfall/s2001/v3b/o4qon50onUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_605057.m3u8
+https://fhlsport121.fis39g1.xyz/token-IhAtzePHKqCG6zYtwPY6nD6DlJrRgHzjaiaqwqcYQjn1t7TPHUFdDoMvqhVNVUpJBCeIwDdmmvw%3Da/cfall/s2001/v3b/24q40oo3nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_605174.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lRcShYLuXHjFE-teVDhbGw0iFb8=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18913/avc-women-s-volleyball-nation-cup-2025-cover-33e61d.jpg" Group-title="AVC NATIONS CUP 2025", CH2 | 7-24 JUNI 2025
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NTosQTvT/live.isml/.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lRcShYLuXHjFE-teVDhbGw0iFb8=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18913/avc-women-s-volleyball-nation-cup-2025-cover-33e61d.jpg" Group-title="AVC NATIONS CUP 2025", CH3 | 7-24 JUNI 2025
@@ -51,7 +51,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NTosQTvT/live.is
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWatu4Aj6lrKM4m2VqYduL0Pj2FfJpwjBOBO54agT8ePOHo3pWtHd6g&s=10" Group-title="BWF KAPAL API INDONESIA OPEN 2025", COURT 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3915979536254061_AiHD.m3u8?txSecret=4efccdf325eb8652efd28fe473f1f8fc&txTime=6844FCB0
+https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/3915980148961061_AiHD.m3u8?txSecret=54bca6ac0b9393a015706a3c48764017&txTime=68464E30
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWatu4Aj6lrKM4m2VqYduL0Pj2FfJpwjBOBO54agT8ePOHo3pWtHd6g&s=10" Group-title="BWF KAPAL API INDONESIA OPEN 2025", COURT 2
@@ -1355,10 +1355,10 @@ https://qtvku.my.id/play/admin/stream/32be3b3e09e6fa40
 https://qtvku.my.id/play/admin/stream/179e8d31fb8145a7
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="PREMIUM SPORT", Astro Premier League 1
-https://qtvku.my.id/play/admin/stream/8ad11ffd1e323ba4
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="PREMIUM SPORT", Astro Premier League 2
-http://extraott.com:900/live/3162523972/3791698850/6589.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="PREMIUM SPORT", Astro Grandstand
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
